@@ -78,8 +78,8 @@ chrome-tab-theme-color: "#000000"
 service-worker: true
 # MathJax rendering for layout:page (e.g. post preview)
 page-mathjax: false
-# Friends
-friends: [
-  title: "Github",
-  href: "https://github.com/"
-]
+# Friends friends: [
+  #  title: "Github",
+#  href: "https://github.com/"
+#]
+
